@@ -36,8 +36,3 @@ This project compares three machine learning algorithms:
 9. Analyze feature importance using the Random Forest model.
 
 
-6. Run the notebook cells to explore the analysis and model results.
-
-## ⚠️ Disclaimer
-This project is for educational and research purposes only. Its predictions are not intended to replace professional medical advice, diagnosis, or treatment.
-
